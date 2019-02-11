@@ -1,2 +1,2 @@
 # Zorkfr
-projet(non abouti) JAVA
+projet JAVA
